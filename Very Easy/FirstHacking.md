@@ -84,7 +84,7 @@ id
 ```bash
 hostname  
 ```
-### Expected Result: 
+### Result: 
 <img width="338" height="130" alt="image" src="https://github.com/user-attachments/assets/887a7b32-b7be-4ce1-a816-0d0f0fc81009" />
 
 ----------
