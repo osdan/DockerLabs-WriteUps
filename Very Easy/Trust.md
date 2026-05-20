@@ -34,7 +34,12 @@ Using the **Gobuster** tool, we discovered a `.php` file named `secret` with an 
 http://172.18.0.2/secret.php
 ```
 #### Result:
+`Single URL: http://172.18.0.2`
 <img width="956" height="1038" alt="image" src="https://github.com/user-attachments/assets/8a9a1c9e-a86e-4357-bdc9-6c5944d8b0b5" />
+
+`File secret.php: http://172.18.0.2/secret.php`
+<img width="957" height="866" alt="image" src="https://github.com/user-attachments/assets/37e8f3b1-c6f5-4ff4-b0a8-2a583fa132cf" />
+
 
 ## 🔐 Brute Force Attack (SSH)
 
