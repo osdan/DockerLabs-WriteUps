@@ -1,6 +1,6 @@
 # Aidor — DockerLabs Writeup
 
-**Platform:** DockerLabs · **Difficulty:** Easy · **Target IP:** 172.17.0.2 ·
+**Platform:** DockerLabs · **Difficulty:** Easy · **Target IP:** 172.17.0.2
 
 ## Summary
 
