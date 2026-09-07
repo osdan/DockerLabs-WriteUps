@@ -60,8 +60,6 @@ dirb http://172.17.0.2:5000
 
 ## 3. Initial Access via Self-Registration
 
-![Empty registration form](images/05-register-empty.png)
-
 Registered a throwaway account through `/register`:
 
 ```
